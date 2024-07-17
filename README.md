@@ -1,2 +1,2 @@
 # chatbot3
-챗봇
+chat
